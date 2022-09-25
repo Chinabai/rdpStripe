@@ -1,0 +1,57 @@
+{
+  "_buildCommand2" : {
+    "command" : "build",
+    "skipDependencies" : false,
+    "style" : "buildAndRun"
+  },
+  "buildCommand" : "build",
+  "configuredTargets" : [
+    {
+      "guid" : "40d1d986ebaad7765fc41f2e209952006b043b3300f8e1fe8af0b65eef865d92"
+    }
+  ],
+  "containerPath" : "/Users/lipingping/Desktop/codecode/rdpStripe/rdpStripe.xcodeproj",
+  "continueBuildingAfterErrors" : false,
+  "enableIndexBuildArena" : false,
+  "hideShellScriptEnvironment" : false,
+  "parameters" : {
+    "action" : "build",
+    "activeArchitecture" : "x86_64",
+    "activeRunDestination" : {
+      "disableOnlyActiveArch" : false,
+      "platform" : "macosx",
+      "sdk" : "macosx11.3",
+      "sdkVariant" : "macos",
+      "supportedArchitectures" : [
+        "x86_64h",
+        "x86_64"
+      ],
+      "targetArchitecture" : "x86_64"
+    },
+    "arenaInfo" : {
+      "buildIntermediatesPath" : "/Users/lipingping/Desktop/codecode/rdpStripe/Build/Intermediates.noindex",
+      "buildProductsPath" : "/Users/lipingping/Desktop/codecode/rdpStripe/Build/Products",
+      "derivedDataPath" : "/Users/lipingping/Desktop/codecode/rdpStripe/myFiles",
+      "indexDataStoreFolderPath" : "/Users/lipingping/Desktop/codecode/rdpStripe/myFiles/rdpStripe/Index/DataStore",
+      "indexEnableDataStore" : true,
+      "indexPCHPath" : "/Users/lipingping/Desktop/codecode/rdpStripe/myFiles/rdpStripe/Index/PrecompiledHeaders",
+      "pchPath" : "/Users/lipingping/Desktop/codecode/rdpStripe/Build/Intermediates.noindex/PrecompiledHeaders"
+    },
+    "configurationName" : "Debug",
+    "overrides" : {
+      "synthesized" : {
+        "table" : {
+          "ENABLE_PREVIEWS" : "NO"
+        }
+      }
+    }
+  },
+  "schemeCommand" : "launch",
+  "schemeCommand2" : "launch",
+  "shouldCollectMetrics" : false,
+  "showNonLoggedProgress" : true,
+  "useDryRun" : false,
+  "useImplicitDependencies" : true,
+  "useLegacyBuildLocations" : false,
+  "useParallelTargets" : true
+}
